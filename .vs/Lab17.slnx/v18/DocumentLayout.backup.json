@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab17\\lab17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|solutionrelative:lab17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab17\\lab17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|solutionrelative:lab17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab17\\lab17\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|solutionrelative:lab17\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab17\\lab17\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|solutionrelative:lab17\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab17\\lab17\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|solutionrelative:lab17\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|d:\\instruments\\visualstudioprojects\\oop\\lab17\\lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92213532-4958-4E67-B178-E4C101D48109}|Lab17\\Lab17.csproj|solutionrelative:lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Form1.cs",
               "RelativeDocumentMoniker": "Lab17\\Form1.cs",
@@ -27,6 +47,71 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T09:43:08.917Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab17\\Form1.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Form1.cs",
+              "RelativeToolTip": "Lab17\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwEkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:40:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Currency.cs",
+              "RelativeDocumentMoniker": "Lab17\\Currency.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Currency.cs",
+              "RelativeToolTip": "Lab17\\Currency.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:38:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dollar.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Dollar.cs",
+              "RelativeDocumentMoniker": "Lab17\\Dollar.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Dollar.cs",
+              "RelativeToolTip": "Lab17\\Dollar.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:37:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Euro.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Euro.cs",
+              "RelativeDocumentMoniker": "Lab17\\Euro.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Euro.cs",
+              "RelativeToolTip": "Lab17\\Euro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:37:21.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Program.cs",
+              "RelativeDocumentMoniker": "Lab17\\Program.cs",
+              "ToolTip": "D:\\instruments\\VisualStudioProjects\\OOP\\Lab17\\Lab17\\Program.cs",
+              "RelativeToolTip": "Lab17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:28:07.581Z",
+              "EditorCaption": ""
             }
           ]
         }
