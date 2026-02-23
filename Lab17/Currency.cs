@@ -6,8 +6,10 @@ namespace Lab17
 {
     internal abstract class Currency
     {
+        // Поле дата.
         private double data;
 
+        // get, set.
         public double Data
         {
             get
@@ -16,12 +18,16 @@ namespace Lab17
             { data = value; }
         }
 
+        // Конструктор.
         public Currency(double data)
         {
             this.data = data;
         }
 
+        // Метод, який перетворює в гривні.
         public abstract double toGRN();
+        
+        // Метод для виведення.
         public abstract string print();
     }
 }
